@@ -1,0 +1,34 @@
+# Medii virtuale (virtual environments)
+myenv/
+venv/
+.venv/
+env/
+ENV/
+
+# Fișiere compilate și cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribuție și pachete (dacă vei face executabil cu PyInstaller etc.)
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Baze de date locale sau fișiere de salvare/loguri generate la rulare
+*.log
+*.sqlite3
+*.db
+
+# Setări IDE / Editoare de cod
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fișiere generate de sistemul de operare (Windows / macOS)
+Thumbs.db
+Desktop.ini
+.DS_Store
