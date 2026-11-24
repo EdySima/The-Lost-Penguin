@@ -1,6 +1,6 @@
 # The Lost Penguin
 
-A 2D game built with **Pygame**, where you control a lost penguin trying to find its way back home while fighting and defeating enemies along the way.
+A prototype 2D game built with **Pygame**, where you control a lost penguin trying to find its way back home while fighting and defeating enemies along the way.
 
 
 ## Features
